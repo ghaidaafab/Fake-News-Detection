@@ -14,6 +14,7 @@ This project is one of the T5 Data Science BootCamp requirements. Data provided 
 ## Data 
 
 The data comes from Kaggle, it is provided in .csv format, you can download it here:
+
 https://www.kaggle.com/sachinsarkar/fake-news-classification-using-naive-bayes/data 
 
 There are two files, one for True\Real news and one for fake news (both in English) with a total of 23481 "fake" articles and 21417 "real" articles.
